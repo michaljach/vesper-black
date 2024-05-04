@@ -1,6 +1,6 @@
 ![Vesper Preview](preview.png)
 
-# Vesper
+# Vesper Black
 
 Black, white and orange flavored dark theme for VSCode based on original Vesper.
 
