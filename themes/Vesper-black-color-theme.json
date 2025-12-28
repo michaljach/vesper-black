@@ -40,7 +40,7 @@
     "titleBar.activeForeground": "#7E7E7E",
     "titleBar.inactiveForeground": "#707070",
     // Tab
-    "tab.border": "#101010",
+    "tab.border": "#000",
     "tab.activeBackground": "#161616",
     "tab.inactiveBackground": "#000",
     "tab.hoverBackground": "#111",
